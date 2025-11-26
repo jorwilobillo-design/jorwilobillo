@@ -29,7 +29,9 @@ Other Skills: Problem-solving, system analysis, interface layouting
 
 📬 Contact
 
-(Optional: You can add your email or social links here)
+jorwil.obillo@neu.edu.ph
+
+
 **Name:** Jorwil Obillo  
 **Education:** BS in Information Technology, New Era University (2nd Year)
 **Certifications:** SQL and Relational Databases 101 (Cognitive Class)  
