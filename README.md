@@ -14,7 +14,8 @@ New Era University
 
 🏅 Certifications
 
-(No certifications added yet — will update soon)
+https://courses.cognitiveclass.ai/certificates/40b141b7acac4ca483ee13da5a634a67
+
 
 --
 
