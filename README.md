@@ -15,6 +15,7 @@ New Era University
 🏅 Certifications
 
 https://courses.cognitiveclass.ai/certificates/40b141b7acac4ca483ee13da5a634a67
+
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=E3136629E5896CD01091193979C71E41700B4E436FBD978988ED0BDA8811E0BB
 
 
