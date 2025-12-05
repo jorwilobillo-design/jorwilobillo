@@ -33,6 +33,7 @@ Programming Languages: HTML, CSS, JavaScript, PHP, SQL Technologies & Tools: Git
 jorwil.obillo@neu.edu.ph
 
 Name: Jorwil Obillo
-Education: BS in Information Technology, New Era University (2nd Year) Certifications: SQL and Relational Databases 101 (Cognitive Class)
+Education: BS in Information Technology, New Era University (2nd Year) 
+Certifications: SQL and Relational Databases 101 (Cognitive Class)
 Skillsets: SQL, Database Management, Problem Solving, Critical Thinking, Basic Programming, Teamwork
 Certifications: SQL and Relational Databases 101. https://courses.cognitiveclass.ai/certificates/40b141b7acac4ca483ee13da5a634a67
